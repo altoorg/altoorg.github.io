@@ -2,6 +2,11 @@
 	min-height: 180px;
 }
 
+.dark_background {
+	background-color: #252523;
+	color: #c7bdac;
+}
+
 .primary_jumbo {
 	background-color: #3498db;	
 	color: #ffffff;
