@@ -1,3 +1,20 @@
 .boxes {
 	min-height: 180px;
 }
+
+.primary_jumbo {
+	background-color: #3498db;	
+	color: #ffffff;
+}
+
+.primary_back {
+	background-color: #3498db;
+}
+
+.primary_text {
+	color: #3498db;
+}
+
+.greyscale_text {
+	color: #ffffff;
+}
